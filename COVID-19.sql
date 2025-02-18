@@ -143,3 +143,6 @@ JOIN covid19vaccination vac
     ON dea.country = vac.country
     AND dea.date = vac.date;
 */ 
+
+SELECT *
+FROM percentagepopulationvaccinated
